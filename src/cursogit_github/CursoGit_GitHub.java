@@ -17,6 +17,8 @@ public class CursoGit_GitHub {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("Hola a todos");
+        System.out.println("SEAN BIENVENIDOS");
+        
     }
     
 }
