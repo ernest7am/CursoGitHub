@@ -9,10 +9,6 @@ package cursogit_github;
  *
  * @author Ernest7
  */
-public class Persona {
-    private String nombre;
-    private Integer edad;
-    
-    
+public class Estudiante {
     
 }
